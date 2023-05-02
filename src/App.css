@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.avatar{
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+}
